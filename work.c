@@ -9,3 +9,10 @@
 #include "work.h"
 
 
+int main()  {
+    printf( "Hello World!");
+}
+
+
+
+
